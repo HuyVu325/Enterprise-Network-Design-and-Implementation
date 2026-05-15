@@ -19,8 +19,6 @@ Bao gồm 3 phòng ban và có hệ thống DHCP Server riêng cấp phát IP ch
 Được bảo vệ bởi Firewall riêng biệt.
 
 ## 🛠️ Công nghệ và Kỹ thuật áp dụng
-Dự án áp dụng các kỹ thuật mạng cốt lõi (sử dụng Cisco Packet Tracer / GNS3):
-
 **Switching:** Cấu hình VLAN để phân chia broadcast domain, sử dụng VTP để đồng bộ VLAN và cấu hình đường Trunking giữa các Switch.
 **Routing:** Cấu hình định tuyến (Động) đảm bảo các thiết bị trong mạng nội bộ giao tiếp được với nhau.
 * **NAT (Network Address Translation):**
