@@ -29,8 +29,7 @@ Dự án áp dụng các kỹ thuật mạng cốt lõi (sử dụng Cisco Packe
 * [cite_start]**VPN (Virtual Private Network):** Triển khai cấu hình **IPSec VPN Site-to-Site** kết nối an toàn giữa Branch và HQ, cho phép chi nhánh sử dụng các ứng dụng nội bộ đặt tại hội sở[cite: 19, 28].
 
 ## 🖼️ Sơ đồ mạng (Network Topology)
-*(Bạn hãy chụp ảnh sơ đồ mạng trên phần mềm mô phỏng của bạn và chèn link ảnh vào đây)*
-![Network Topology](./images/topology.png)
+![Network Topology](images/topology.png)
 
 ## 🚀 Hướng dẫn cài đặt và kiểm tra
 1. Tải phần mềm mô phỏng (ví dụ: Cisco Packet Tracer phiên bản x.x.x).
